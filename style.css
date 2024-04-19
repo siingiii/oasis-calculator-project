@@ -1,0 +1,44 @@
+#display {
+  width: 220px;
+  margin-top: 20px;
+  margin-left: 30px;
+  padding: 20px;
+  font-size: 10px;
+  border: 2px solid purple;
+  background-color: white;
+  color: black;
+}
+#keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 25px;
+}
+body {
+  align-items: center;
+  background-color: lavender;
+}
+.container {
+  background-color: rgb(171, 109, 230);
+  width: 400px;
+  border-radius: 14px;
+  margin-left: 332px;
+}
+
+button {
+  width: 77px;
+  height: 60px;
+  border-radius: 20px;
+  background-color: lavender;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid purple;
+}
+button:hover {
+  background-color: purple;
+}
+button:active {
+  background-color: white;
+}
