@@ -69,15 +69,17 @@ button:active {
     padding: 50px 40;
   }
   .container {
-    width: 900px 900px;
+    width: 314px;
     border-radius: 12px;
-    margin-left: 150px;
-    margin-top: 10px;
-    padding: 10px;
+    margin: 5px 5px 5px 5px;
+    margin-left: 5px;
+
+    margin-top: 50px;
+    padding: 8px;
   }
   button {
-    width: 50px;
-    height: 40px;
+    width: 60px;
+    height: 50px;
     border-radius: 15px;
     background-color: lavender;
     color: black;
@@ -85,5 +87,8 @@ button:active {
     font-weight: bold;
     cursor: pointer;
     border: 1px solid purple;
+  }
+  body {
+    margin: 40px;
   }
 }
