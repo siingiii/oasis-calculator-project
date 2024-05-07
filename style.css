@@ -24,7 +24,7 @@ body {
   width: 400px;
   border-radius: 14px;
   margin-top: 100px;
-  padding: 30px;
+  padding: 20px;
   margin: 0 auto;
 }
 .arithmetic-btn {
@@ -70,10 +70,10 @@ button:active {
     padding: 50px 40;
   }
   .container {
-    width: 314px;
+    width: 320px;
     border-radius: 12px;
     margin: 50px auto;
-    padding: 15px;
+    padding: 20px;
   }
   button {
     width: 60px;
@@ -81,7 +81,7 @@ button:active {
     border-radius: 15px;
     background-color: lavender;
     color: black;
-    font-size: 10px;
+    font-size: 14px;
     font-weight: bold;
     cursor: pointer;
     border: 1px solid purple;
